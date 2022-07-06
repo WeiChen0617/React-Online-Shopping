@@ -1,18 +1,18 @@
 ﻿export default [
   {
     path: "/admin",
-    name: "管理页面",
+    name: "Management",
     icon: "crown",
     access: "canAdmin",
     routes: [
       {
         path: "product",
-        name: "商品管理",
+        name: "Product",
         component: "./admin/product",
       },
       {
         path: "voucher",
-        name: "优惠券管理",
+        name: "Voucher",
         component: "./admin/voucher",
       },
       // {
@@ -26,16 +26,16 @@
     ],
   },
   {
-    name: "工作台",
+    name: "Work Place",
     icon: "smile",
     routes: [
       {
-        name: "商品列表",
+        name: "Product",
         icon: "smile",
         path: "workplace/product",
         component: "./workplace/product",
       }, {
-        name: "购物车",
+        name: "Cart",
         icon: "smile",
         path: "workplace/cart",
         component: "./workplace/cart",
