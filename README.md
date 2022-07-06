@@ -1,5 +1,7 @@
 <h1 align="center">React Online shop</h1>
+
 ## About App
+
 Source codes are open on Github separately.
 
 Serverless services: https://github.com/WeiChen0617/aws-serverless-online-shop
