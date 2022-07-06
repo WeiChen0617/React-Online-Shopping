@@ -1,7 +1,9 @@
 <h1 align="center">React Online shop</h1>
 ## About App
 Source codes are open on Github separately.
+
 Serverless services: https://github.com/WeiChen0617/aws-serverless-online-shop
+
 React application: https://github.com/WeiChen0617/React-Online-Shopping
 
 The website is hosted on AWS Amplify: https://main.d1iityzpl08e1i.amplifyapp.com
