@@ -144,7 +144,5 @@
       "create-umi"
     ]
   },
-  "gitHooks": {
-    "commit-msg": "fabric verify-commit"
-  }
+  "gitHooks": {}
 }
